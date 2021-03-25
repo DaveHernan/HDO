@@ -1,0 +1,57 @@
+@import "../themes/bootstrap-color.scss";
+footer {
+  * {
+    transition-duration: 0.15s;
+  }
+  background-image: url("../images/philippines.jpg");
+  background-size: cover;
+
+  .footer-wrapper {
+    margin: 0px;
+    background: rgba($color: #000, $alpha: 0.6);
+  }
+
+  hr {
+    border-color: rgba($color: #fff, $alpha: 0.6);
+    margin: 5px 0px;
+  }
+  .footer-social {
+    a {
+      padding: 7px 10px 9px;
+      margin-right: 10px;
+      border-width: 2px;
+      border-color: #fff;
+      border-style: solid;
+      border-radius: 50%;
+      color: #fff;
+    }
+
+    .fill-svg {
+      stroke-width: 0;
+      fill: #fff;
+    }
+
+    svg {
+      height: 20px;
+      width: 20px;
+    }
+  }
+
+  .footer-credits {
+    margin: 0px;
+    padding: 20px;
+    color: $secondary;
+    font-size: 0.9rem;
+    background-color: rgba($color: #000000, $alpha: 0.6);
+
+    a {
+      color: $secondary;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+}
