@@ -1,9 +1,9 @@
 [
   {
-    "title": "Dave House",
-    "slug": "Dave",
+    "title": "Ialicante Mediterranean Homes",
+    "slug": "ialicante",
     "category": ["construction"],
-    "description": "Nice Blah blah --------------------------------- Description, theme, ",
+    "description": "iAlicante provides a brand new line of modern Villas and Apartments and beautiful second-hand properties on the SUNNY Mediterranean coast of Costa Blanca, in Spain '' the White Coast'', which is one of the top holiday destinations.",
     "img": {
       "src": [
         "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
@@ -16,11 +16,11 @@
       "orig": "https://unsplash.com/photos/2d4lAQAlbDA",
       "author": "Photo by iAlicante Mediterranean Homes on Unsplash"
     },
-    "amount": "$ 400,000.00",
+    "amount": "Php 4,000,000.00",
     "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2021",
-    "owner": "Dave.com",
-    "address": "Edmonton Canada",
+    "completionDate": "Feb. 20, 2018",
+    "owner": "ialicante.com",
+    "address": "Alicante, Costa Blanca, Spain",
     "featured": true
   }
   

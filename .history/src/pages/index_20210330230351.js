@@ -26,12 +26,12 @@ const IndexPage = ({ data }) => {
         projects={data.allProjectsJson.edges}
       />
       
-      <Services />
+     {/* <Services />  */}
     
  
       <About about={about} />
-      {/* <QuoteUs />
-     } <News /> */}
+      <QuoteUs />
+    {/*  } <News /> */}
     </div>
   )
 }

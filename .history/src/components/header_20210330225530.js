@@ -47,7 +47,7 @@ class Header extends Component {
                   <Link
                     className="nav-link"
                     activeStyle={{ fontWeight: "bold" }}
-                    to="/#home"
+                    to="/#hero"
                   >
                     Home
                   </Link>
@@ -60,8 +60,24 @@ class Header extends Component {
                     Projects
                   </Link>
                 </NavItem>
-             
-             
+                <NavItem>
+                  <Link
+                    className="nav-link"
+                    activeStyle={{ fontWeight: "bold" }}
+                    to="/services/#services"
+                  >
+                    Services
+                  </Link>
+                </NavItem>
+                <NavItem>
+                  <Link
+                    className="nav-link"
+                    activeStyle={{ fontWeight: "bold" }}
+                    to="/careers/#careers"
+                  >
+                    Careers
+                  </Link>
+                </NavItem>
                 <NavItem>
                   <Link
                     className="nav-link"

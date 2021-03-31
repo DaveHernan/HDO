@@ -30,8 +30,8 @@ const IndexPage = ({ data }) => {
     
  
       <About about={about} />
-      {/* <QuoteUs />
-     } <News /> */}
+      <QuoteUs />
+    {/*  } <News /> */}
     </div>
   )
 }
