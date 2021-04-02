@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import "./project.scss"
 
 import ProjCard from "./projCard"
-
+import Carousel from "./Carousel"
 
 
 const Feature = ({ title, projects }) => {
@@ -16,7 +16,9 @@ const Feature = ({ title, projects }) => {
         </h2>
 
         <section className="gallery">
-                
+       
+          <Carousel/>
+        
              <Row>
             {projects
               .filter(project => project.node.featured === true)

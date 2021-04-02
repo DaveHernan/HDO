@@ -1,0 +1,11 @@
+.carousel{
+    width: 60%;
+    height: 600px;
+    background-color: black;
+}
+
+.carouselInner{
+    height: 50%;
+    width: 50%;
+
+}

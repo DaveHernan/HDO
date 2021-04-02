@@ -12,8 +12,6 @@ import {
 import "./hero.scss";
 import favicon from "../templates/favicon-32x32.png"
 
-import Loading from "../components/Loading"
-
 class Header extends Component {
   constructor(props) {
     super(props)
@@ -30,11 +28,7 @@ class Header extends Component {
   render() {
     const { siteTitle, logo } = this.props
     return (
-     
-
-   
       <div className="header" id="home" >
-          
         <Navbar color="dark" dark expand="md" className="navbar fix-top">
           <Container>
             <Link to="/#home" className="navbar-brand">

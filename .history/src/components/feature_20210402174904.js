@@ -5,7 +5,7 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-
+import Carousel from "./Carousel"
 
 const Feature = ({ title, projects }) => {
   return (

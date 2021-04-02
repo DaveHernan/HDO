@@ -34,7 +34,7 @@ class Header extends Component {
 
    
       <div className="header" id="home" >
-          
+              <Loading/>
         <Navbar color="dark" dark expand="md" className="navbar fix-top">
           <Container>
             <Link to="/#home" className="navbar-brand">

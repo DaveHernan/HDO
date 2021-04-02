@@ -4,8 +4,7 @@ import { Link } from "gatsby"
 import "./project.scss"
 
 import ProjCard from "./projCard"
-
-
+import { Carousel } from "bootstrap"
 
 const Feature = ({ title, projects }) => {
   return (

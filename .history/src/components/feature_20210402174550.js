@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import "./project.scss"
 
 import ProjCard from "./projCard"
-
+import  Carousel  from "react-elastic-carousel"
 
 
 const Feature = ({ title, projects }) => {

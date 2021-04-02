@@ -30,11 +30,10 @@ class Header extends Component {
   render() {
     const { siteTitle, logo } = this.props
     return (
-     
-
-   
+      <div>
+      <Loading/>
+   <div>
       <div className="header" id="home" >
-          
         <Navbar color="dark" dark expand="md" className="navbar fix-top">
           <Container>
             <Link to="/#home" className="navbar-brand">

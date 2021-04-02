@@ -16,7 +16,7 @@ const Feature = ({ title, projects }) => {
         </h2>
 
         <section className="gallery">
-                
+      
              <Row>
             {projects
               .filter(project => project.node.featured === true)

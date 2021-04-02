@@ -13,14 +13,15 @@ import About from "../components/about"
 import QuoteUs from "../components/quote"
 import Feature from "../components/feature"
 import News from "../components/news"
-
+import Loading from "../components/Loading"
 
 const IndexPage = ({ data }) => {
   const { fullTitle, description, about } = data.site.siteMetadata
 
   return (
     <div>
-   <Hero title={fullTitle} description={description} />
+      <Loading/>
+      <Hero title={fullTitle} description={description} />
       
       <Feature
         title="Featured Projects"
@@ -33,8 +34,6 @@ const IndexPage = ({ data }) => {
       <About about={about} />
       {/* <QuoteUs />
      } <News /> */}
-
-
     </div>
   )
 }

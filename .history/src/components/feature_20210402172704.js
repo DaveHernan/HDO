@@ -4,8 +4,7 @@ import { Link } from "gatsby"
 import "./project.scss"
 
 import ProjCard from "./projCard"
-
-
+import { Carousel } from "bootstrap"
 
 const Feature = ({ title, projects }) => {
   return (
@@ -16,13 +15,13 @@ const Feature = ({ title, projects }) => {
         </h2>
 
         <section className="gallery">
-                
+                 <Row></Row>
              <Row>
             {projects
               .filter(project => project.node.featured === true)
               .map(project => {
                 return (
-                  <Col lg="4" md="6" sm="12">
+                  <Col lg="5" md="2" sm="6">
                     <ProjCard proj={project.node} />
                   </Col>
                 )

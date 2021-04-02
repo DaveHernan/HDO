@@ -1,8 +1,8 @@
-import React from "react"
+import React , {Component}from "react"
 import { Container, Row, Col, Button } from "reactstrap"
 import { Link } from "gatsby"
 import "./project.scss"
-
+import Carousel from "./Carousel"
 import ProjCard from "./projCard"
 
 
@@ -16,8 +16,8 @@ const Feature = ({ title, projects }) => {
         </h2>
 
         <section className="gallery">
-                
-             <Row>
+<Carousel/>
+           
             {projects
               .filter(project => project.node.featured === true)
               .map(project => {
@@ -27,7 +27,7 @@ const Feature = ({ title, projects }) => {
                   </Col>
                 )
               })}
-          </Row>
+      
          
 
         </section>

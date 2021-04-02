@@ -5,7 +5,7 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-
+import Carousel from "./Carousel"
 
 const Feature = ({ title, projects }) => {
   return (
@@ -14,7 +14,7 @@ const Feature = ({ title, projects }) => {
         <h2 className="header-title text-center font-weight-bold text-uppercase">
           {title}
         </h2>
-
+<Carousel/>
         <section className="gallery">
                 
              <Row>

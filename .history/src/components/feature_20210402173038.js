@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import "./project.scss"
 
 import ProjCard from "./projCard"
-
+import  Carousel  from "react-elastic-carousel"
 
 
 const Feature = ({ title, projects }) => {
@@ -17,7 +17,7 @@ const Feature = ({ title, projects }) => {
 
         <section className="gallery">
                 
-             <Row>
+             <Carousel>
             {projects
               .filter(project => project.node.featured === true)
               .map(project => {
@@ -27,7 +27,7 @@ const Feature = ({ title, projects }) => {
                   </Col>
                 )
               })}
-          </Row>
+          </Carousel>
          
 
         </section>
