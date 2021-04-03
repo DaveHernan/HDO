@@ -1,0 +1,26 @@
+.quote {
+  height: 100%;
+  overflow: hidden;
+}
+.parallax-container {
+  height: 100%;
+  background-color: white;
+
+}
+
+.parallax-content {
+ 
+  color: #fff;
+  text-align: center;
+
+  h3 {
+    font-weight: bold;
+    // min-width: 300px;
+  }
+
+  .btn {
+    padding: 10px 40px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+  }
+}

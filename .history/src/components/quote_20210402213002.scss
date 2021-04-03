@@ -1,0 +1,33 @@
+.quote {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  justify-content: center !important;
+  align-content: center !important;
+  text-align: center !important;
+}
+.parallax-container {
+  height: 100%;
+  background-color: white;
+  
+}
+
+.parallax-content {
+ 
+  color: black;
+ 
+
+  h3 {
+    font-weight: bold;
+    text-align: center;
+
+    // min-width: 300px;
+  }
+
+  .btn {
+    padding: 10px 40px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    
+  }
+}
