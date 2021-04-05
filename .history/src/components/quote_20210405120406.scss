@@ -1,0 +1,31 @@
+.quote {
+  height: 100%;
+  overflow: hidden;
+  background-image: url("../images/quote.png");
+
+}
+.parallax-container {
+  height: 100%;
+  background-image: url("../images/quote.png");
+
+}
+
+.parallax-content {
+ 
+  color: black;
+  background-image: url("../images/quote.png");
+
+  h2 {
+    font-weight: bold;
+    text-align: center !important;
+    width: 100%;
+    // min-width: 300px;
+  }
+
+  .btn {
+    padding: 10px 40px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    
+  }
+}
