@@ -9,23 +9,23 @@ import imgTeamBuilding from "../images/news/team-building.jpg"
 
 const companyNews = [
   {
-    title: `PTV Appearance`,
-    date: `Mar. 23, 2021`,
-    about: `Catch our CEO as he is invited to be interviewed in PTV and discuss the future of the company`,
+    title: `ISO Seminars 2019`,
+    date: `Mar. 23, 2019`,
+    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore eaque debitis quis corporis magni cupiditate aperiam autem. Nostrum, fugit dolor.`,
     img: imgSeminar,
     slug: `iso-seminars-2019`,
   },
   {
-    title: `Signing for Government Projects`,
-    date: `April 5, 2021`,
-    about: `We are proud that our company is Government trusted contractor`,
+    title: `TP Center Construction`,
+    date: `May. 19, 2019`,
+    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dolorem, magnam praesentium dignissimos repellendus eveniet!`,
     img: imgBuilding,
     slug: `tpcenter-construction`,
   },
   {
-    title: `Company Team Building 2021`,
-    date: `April 5, 2021`,
-    about: `This year, our team building will be focused on helping fellow citizens as we fight COVID-19. Budget will be allocated to buy relief goods.`,
+    title: `Company Team Building 2019`,
+    date: `August. 5, 2019`,
+    about: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis quibusdam similique provident quo vitae odio suscipit dicta cupiditate?`,
     img: imgTeamBuilding,
     slug: `company-teambuilding2019`,
   },
@@ -36,7 +36,7 @@ const News = () => {
     <div className="news section-lg bg-light-gray">
       <Container>
         <h2 className="header-title font-weight-bold text-center text-uppercase">
-          Events
+          Company News
         </h2>
         <Row>
           {companyNews.map(news => {

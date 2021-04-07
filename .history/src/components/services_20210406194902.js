@@ -1,7 +1,7 @@
 import React from "react"
-import { Container, Row, Col, Button } from "reactstrap"
+import { Container, Row, Co, Buttonl } from "reactstrap"
 import "./services.scss"
-import { Link } from "gatsby"
+
 import Service from "./service"
 
 import Bulldozer from "../images/icons/icon-bulldozer-74x74.png"

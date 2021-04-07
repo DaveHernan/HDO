@@ -6,7 +6,7 @@ import "./hero.scss"
 
 import Typed from "react-typed";
 
-const Hero = ({ description }) => {
+const Hero = ({ title, description }) => {
   return (
     <div className="hero" id="hero">
       <section className="h-100 d-flex align-items-center text-left bg-dark-40">

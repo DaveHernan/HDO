@@ -51,8 +51,8 @@ $color-hover: #d39e00;
 }
 
 .btn-secondary:hover {
-  background-color:  white !important;
-  border-color:  white;
+  background-color:  #1a1e2a !important;
+  border-color:  #1a1e2a;
 }
 
 .btn-outline-secondary {
@@ -150,7 +150,7 @@ footer {
         fill: white;
       }
       .stroke-svg {
-        stroke: white;
+        stroke: #000;
       }
     }
   }

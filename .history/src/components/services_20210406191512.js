@@ -1,7 +1,7 @@
 import React from "react"
-import { Container, Row, Col, Button } from "reactstrap"
+import { Container, Row, Col } from "reactstrap"
 import "./services.scss"
-import { Link } from "gatsby"
+
 import Service from "./service"
 
 import Bulldozer from "../images/icons/icon-bulldozer-74x74.png"
@@ -38,14 +38,6 @@ const Services = () => {
             )
           })}
         </Row>
-
-        <section className="text-center mt-5 font-size-s2">
-          <Link to={'/services/#services'}>
-            <Button outline color="dark">
-              All Services
-            </Button>
-          </Link>
-        </section>
       </Container>
     </div>
   )

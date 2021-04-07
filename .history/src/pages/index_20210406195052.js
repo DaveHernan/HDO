@@ -29,9 +29,8 @@ const IndexPage = ({ data }) => {
       
       <Services />
     
-     
-      <About about={about} />
       <News /> 
+      <About about={about} />
        <QuoteUs />
      
 

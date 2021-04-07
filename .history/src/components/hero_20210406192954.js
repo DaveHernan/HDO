@@ -4,9 +4,7 @@ import { Button } from "reactstrap"
 import { Link } from "gatsby"
 import "./hero.scss"
 
-import Typed from "react-typed";
-
-const Hero = ({ description }) => {
+const Hero = ({ title, description }) => {
   return (
     <div className="hero" id="hero">
       <section className="h-100 d-flex align-items-center text-left bg-dark-40">
@@ -24,7 +22,7 @@ const Hero = ({ description }) => {
           backSpeed={60}
           loop
         />
-
+        
             <p className="hero-description">{description}</p>
             <section className="hero-buttons">
               <Button href="contact">Contact Us</Button>

@@ -32,14 +32,12 @@ const Feature = ({ title, projects }) => {
 
         </section>
         <section className="text-center mt-5 font-size-s2">
-          <div className="featured-btn">
-          <h4>Explore more about our Projects</h4>
+          <p className="">Explore more about our Projects</p>
           <Link to={'/projects/#projects'}>
             <Button outline color="dark">
               All Projects
             </Button>
           </Link>
-          </div>
         </section>
       </Container>
     </div>

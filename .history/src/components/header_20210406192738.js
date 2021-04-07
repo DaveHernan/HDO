@@ -28,7 +28,7 @@ class Header extends Component {
     })
   }
   render() {
-    const { siteTitle } = this.props
+    const { siteTitle, logo } = this.props
     return (
      
 
@@ -44,9 +44,7 @@ class Header extends Component {
                 height="40px"
                 className="mr-2"
               />
-            </Link>
-            <Link to="/#home" className="navbar-title">
-            <div className="Nav-title" >HDO Builders and Design</div> 
+             <div className="Nav-title" >HDO Builders and Design</div> 
             </Link>
             <NavbarToggler onClick={this.toggle} />
             <Collapse isOpen={this.state.isOpen} navbar>
