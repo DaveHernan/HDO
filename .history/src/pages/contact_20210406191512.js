@@ -13,7 +13,7 @@ import Pin from "../assets/svg/map-pin.svg"
 import FacebookSVG from "../assets/svg/facebook.svg"
 import TwitterSVG from "../assets/svg/twitter.svg"
 import InstagramSVG from "../assets/svg/instagram.svg"
-
+import LinkedinSVG from "../assets/svg/linkedin.svg"
 
 const ContactPage = () => {
   const data = useStaticQuery(graphql`
@@ -33,14 +33,13 @@ const ContactPage = () => {
             telephone
           }
           address
-          satellite
           map
         }
       }
     }
   `)
 
-  const { title, email, social, contact, address, satellite, map } = data.site.siteMetadata
+  const { title, email, social, contact, address, map } = data.site.siteMetadata
   return (
     <section id="contact">
       <PageHeader title="Contact" />
@@ -113,7 +112,7 @@ const ContactPage = () => {
                   </Col>
                   <Col className="mb-4" md="6">
                     <button
-                      className="text-light font-weight-bold text-uppercase btn btn-secondary btn-block"
+                      className="text-dark font-weight-bold text-uppercase btn btn-secondary btn-block"
                       type="submit"
                     >
                       Send Message
@@ -148,7 +147,13 @@ const ContactPage = () => {
                     >
                       <InstagramSVG className="stroke-svg" />
                     </a>
-                  
+                    <a
+                      href={social.linkedin}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <LinkedinSVG className="stroke-svg" />
+                    </a>
                   </Row>
                 </section>
                 <section className="telephone border-bottom mb-4 pb-4">
@@ -179,12 +184,6 @@ const ContactPage = () => {
                   <p className="text-uppercase font-weight-bold">Address</p>
                   <Row className="ml-0 flex-nowrap">
                     <Pin className="fill-svg fill-color" /> <p>{address}</p>
-                  </Row>
-                </section>
-                <section className="address mb-4 pb-4">
-                  <p className="text-uppercase font-weight-bold">Satellite</p>
-                  <Row className="ml-0 flex-nowrap">
-                    <Pin className="fill-svg fill-color" /> <p>{satellite}</p>
                   </Row>
                 </section>
               </aside>

@@ -47,7 +47,7 @@ const CareersPage = ({ data }) => {
                   })}
                 </ul>
                 <Link to="/contact/#contact" className="careers-btn-lnk">
-                  <Button className="text-light text-uppercase font-weight-bold py-2 px-4 my-2">
+                  <Button className="text-dark text-uppercase font-weight-bold py-2 px-4 my-2">
                     Join Our Team Now
                   </Button>
                 </Link>

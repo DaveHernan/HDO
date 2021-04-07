@@ -25,8 +25,7 @@ module.exports = {
       telephone: `(+63) 915 312 3148`,
     },
     address: `Zone 7 Bobonan Asingan Pangasinan 2439`,
-    satellite: 'Sawalag Dasmarinas, Cavite 4114',
-    map: `https://maps.google.com/maps?q=16.0343834,120.6328583&t=&z=11&ie=UTF8&iwloc=&output=embed`,
+    map: `https://www.google.ca/maps/place/Bobonan,+Asingan,+Pangasinan,+Philippines/@16.0343834,120.6328583,15z/data=!3m1!4b1!4m8!1m2!2m1!1sZone+7+Bobonan+Asingan+Pangasinan+2439!3m4!1s0x33911660933af3d9:0x45cb07d70e42f07d!8m2!3d16.0339291!4d120.6415611`,
     opening: {
       day: `Monday - Friday`,
       hour: `8:00am - 5:00pm`,

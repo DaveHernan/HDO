@@ -29,19 +29,19 @@
     }
 
     .fill-svg {
-      fill: black !important;
-      stroke: white !important;
+      fill: $secondary;
+      stroke: none;
     }
 
     .stroke-svg {
-      stroke: white !important;
-      fill: black !important;
+      stroke: $secondary;
+      fill: none;
     }
 
     .address {
       .fill-svg {
-        fill: black !important;
-        stroke: white !important;
+        fill: $secondary;
+        stroke: #fff;
         stroke-width: 2;
         width: 2.5rem;
         height: 2.5rem;

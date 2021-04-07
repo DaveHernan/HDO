@@ -51,7 +51,7 @@ $color-hover: #d39e00;
 }
 
 .btn-secondary:hover {
-  background-color:  #1a1e2a !important;
+  background-color:  white !important;
   border-color:  #1a1e2a;
   
 }
@@ -63,6 +63,7 @@ $color-hover: #d39e00;
 .btn-outline-secondary:hover {
   background-color: white;
   border-color:  #1a1e2a;
+  color:#1a1e2a;
 }
 
 // -------- About --------
