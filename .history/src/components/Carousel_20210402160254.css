@@ -1,0 +1,16 @@
+.carousel{
+    width: 100vw;
+    height: 700px;
+    background-color: black;
+}
+
+.carouselInner{
+    height: 50%;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+    
+}

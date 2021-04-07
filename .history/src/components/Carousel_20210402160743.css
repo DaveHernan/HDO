@@ -1,0 +1,22 @@
+.carousel{
+    width: 100vw;
+    height: 300px;
+    
+    align-content: center;
+    align-items: center;
+
+}
+
+.carouselInner{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+  
+    
+}

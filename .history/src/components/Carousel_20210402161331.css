@@ -1,0 +1,28 @@
+body{
+    align-content:center;
+    justify-content: center;
+    align-items:center;
+}
+
+.carousel{
+   
+    align-content:center;
+    justify-content: center;
+    align-items:center;
+
+
+}
+
+.carouselInner{
+    
+    align-content:center;
+    justify-content: center;
+    align-items:center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;
+    display: flex
+  
+  
+    
+}
