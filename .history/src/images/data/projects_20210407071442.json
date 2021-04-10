@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Yambao Residence",
+    "slug": "Yambao",
+    "category": ["interior design"],
+    "description": "Bedrooms and Cabinets Design",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25073/slide-8-1-jpg-38k?da=y",
+        "https://photos.google.com/u/1/photo/AF1QipNg4bACcrBk-CqfltU4OhOc72ywOECcgV93ifB7",
+        "https://photos.google.com/u/1/photo/AF1QipO-lhx755jqLxXcbN4NObVC_znTq7eCdmQvWvQ_"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 3,000,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Yambao Family",
+    "address": "North Dasma Garden Villas",
+    "featured": true
+  }
+  
+]

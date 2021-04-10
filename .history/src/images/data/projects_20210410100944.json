@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Yambao Residence",
+    "slug": "Yambao",
+    "category": ["interior design"],
+    "description": "Bedrooms and Cabinets Design",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25073/slide-8-1-jpg-38k?da=y",
+        "https://www.keepandshare.com/doc8/25074/slide-8-2-jpg-22k?da=y",
+        "https://www.keepandshare.com/doc8/25075/slide-8-3-jpg-18k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Yambao Family",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  },
+
+  {
+    "title": "Yambao Residence",
+    "slug": "Yambao",
+    "category": ["remodeling"],
+    "description": "Cabinets Design",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25076/slide-9-1-jpg-27k?da=y",
+        "https://www.keepandshare.com/doc8/25077/slide-9-2-jpg-31k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 3,000,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Yambao Family",
+    "address": "North Dasma Garden Villas",
+    "featured": true
+  },
+
+  {
+    "title": "Stella Rabe",
+    "slug": "StellaProposal",
+    "category": ["interior design"],
+    "description": "Bedroom, Dining & Kitchen",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25078/slide-10-jpg-138k?da=y",
+        "https://www.keepandshare.com/doc8/25079/slide-11-jpg-132k?da=y"
+       
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Stella Rabe",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  },
+
+  {
+    "title": "Stella Rabe",
+    "slug": "StellaActual",
+    "category": ["remodeling"],
+    "description": "Bedroom, Dining & Kitchen",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25080/slide-12-1-jpg-74k?da=y",
+        "https://www.keepandshare.com/doc8/25081/slide-12-2-jpg-26k?da=y",
+        "https://www.keepandshare.com/doc8/25083/slide-13-1-jpg-66k?da=y",
+        "https://www.keepandshare.com/doc8/25084/slide-13-2-jpg-30k?da=y",
+        "https://www.keepandshare.com/doc8/25085/slide-13-3-jpg-20k?da=y"
+
+
+       
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 2,500,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Stella Rabe",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Stella Rabe",
+    "slug": "Stella Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25086/slide-14-jpg-72k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Isobelle",
+    "slug": "Isobelle Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25087/slide-15-jpg-171k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 4,000,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Sta. Rosa, Laguna",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Isobelle",
+    "slug": "Isobelle ",
+    "category": ["interior design"],
+    "description": "Proposed dining and kitchen perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25087/slide-15-jpg-171k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Sta. Rosa, Laguna",
+    "featured": false
+  }
+  
+]

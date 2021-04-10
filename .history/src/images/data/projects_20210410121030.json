@@ -1,0 +1,491 @@
+[
+  {
+    "title": "Yambao Residence",
+    "slug": "Yambao",
+    "category": ["interior design"],
+    "description": "Bedrooms and Cabinets Design",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25073/slide-8-1-jpg-38k?da=y",
+        "https://www.keepandshare.com/doc8/25074/slide-8-2-jpg-22k?da=y",
+        "https://www.keepandshare.com/doc8/25075/slide-8-3-jpg-18k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Yambao Family",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  },
+
+  {
+    "title": "Yambao Residence",
+    "slug": "Yambao",
+    "category": ["remodeling"],
+    "description": "Cabinets Design",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25076/slide-9-1-jpg-27k?da=y",
+        "https://www.keepandshare.com/doc8/25077/slide-9-2-jpg-31k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 3,000,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Yambao Family",
+    "address": "North Dasma Garden Villas",
+    "featured": true
+  },
+
+  {
+    "title": "Stella Rabe",
+    "slug": "StellaProposal",
+    "category": ["interior design"],
+    "description": "Bedroom, Dining & Kitchen",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25078/slide-10-jpg-138k?da=y",
+        "https://www.keepandshare.com/doc8/25079/slide-11-jpg-132k?da=y"
+       
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Stella Rabe",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  },
+
+  {
+    "title": "Stella Rabe",
+    "slug": "StellaActual",
+    "category": ["remodeling"],
+    "description": "Bedroom, Dining & Kitchen",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25080/slide-12-1-jpg-74k?da=y",
+        "https://www.keepandshare.com/doc8/25081/slide-12-2-jpg-26k?da=y",
+        "https://www.keepandshare.com/doc8/25083/slide-13-1-jpg-66k?da=y",
+        "https://www.keepandshare.com/doc8/25084/slide-13-2-jpg-30k?da=y",
+        "https://www.keepandshare.com/doc8/25085/slide-13-3-jpg-20k?da=y"
+
+
+       
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 2,500,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "Stella Rabe",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Stella Rabe",
+    "slug": "Stella Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25086/slide-14-jpg-72k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "North Dasma Garden Villas",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Isobelle",
+    "slug": "Isobelle Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25087/slide-15-jpg-171k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 4,000,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Sta. Rosa, Laguna",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Isobelle",
+    "slug": "Isobelle Interior",
+    "category": ["interior design"],
+    "description": "Proposed bedroom, dining and kitchen perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25088/slide-16-jpg-104k?da=y",
+        "https://www.keepandshare.com/doc8/25089/slide-17-jpg-164k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Sta. Rosa, Laguna",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Maricris",
+    "slug": "Maricris Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25090/slide-18-1-jpg-103k?da=y",
+        "https://www.keepandshare.com/doc8/25091/slide-18-2-jpg-102k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 3,200,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Malagasang",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "Bungalow",
+    "slug": "Bungalow Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25092/slide-19-jpg-185k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 2,500,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Pangasinan",
+    "featured": false
+  }
+  ,
+
+  {
+    "title": "2-Storey Apartment",
+    "slug": "2-Storey Apartment Exterior",
+    "category": ["proposed projects"],
+    "description": "Proposed exterior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25114/slide-20-1-jpg-30k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "Php 2,800,000.00",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Baguio",
+    "featured": false
+  } ,
+   {
+    "title": "2-Storey Apartment",
+    "slug": "2-Storey Apartment Interior",
+    "category": ["interior design"],
+    "description": "Proposed interior perspective",
+    "img": {
+      "src": [
+        "https://www.keepandshare.com/doc8/25115/slide-20-2-jpg-55k?da=y"
+      ],
+      "orig": "",
+      "author": ""
+    },
+    "amount": "",
+    "duration": "",
+    "completionDate": "",
+    "owner": "",
+    "address": "Baguio",
+    "featured": false
+  } ,
+  {
+   "title": "Model Unit",
+   "slug": "Model-Unit",
+   "category": ["remodeling"],
+   "description": "Interior remodeling",
+   "img": {
+     "src": [
+       "https://www.keepandshare.com/doc8/25116/slide-21-1-jpg-18k?da=y",
+       "https://www.keepandshare.com/doc8/25117/slide-21-2-jpg-16k?da=y",
+       "https://www.keepandshare.com/doc8/25118/slide-21-3-jpg-17k?da=y",
+       "https://www.keepandshare.com/doc8/25119/slide-21-4-jpg-18k?da=y"
+     ],
+     "orig": "",
+     "author": ""
+   },
+   "amount": "Php 3,800,000.00",
+   "duration": "",
+   "completionDate": "",
+   "owner": "Model Unit - DDC Land Inc.",
+   "address": "North Dasma Garden Villas",
+   "featured": true
+ },
+ {
+  "title": "Renovation",
+  "slug": "Renovation",
+  "category": ["remodeling"],
+  "description": "Renovation of 4-bedroom Residence, interior and exterior perspective",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25120/slide-22-1-jpg-141k?da=y",
+      "https://www.keepandshare.com/doc8/25121/slide-22-2-jpg-40k?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 3,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Avida Sta. Catalina Brgy. Salawag Dasma",
+  "featured": false
+},
+
+ {
+  "title": "3-Storey Residence",
+  "slug": "Renovation",
+  "category": ["proposed projects"],
+  "description": "Construction of 3 storey residence",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25122/slide-23-jpg-191k?da=y"
+     
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 10,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Queens Row, Imus Cavite",
+  "featured": false
+},
+{
+  "title": "Florendo's Residence",
+  "slug": "Florendo's Residence",
+  "category": ["proposed projects"],
+  "description": "Construction of a residence in urban area",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25123/slide-24-jpg-87k?da=y"
+     
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 2,800,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "Florendo's Family",
+  "address": "South Cembo, Makati",
+  "featured": false
+},
+{
+  "title": "Sonia Falcon",
+  "slug": "Falcon Residence",
+  "category": ["proposed projects"],
+  "description": "Construction of a 2-storey Apartment in Dasmariñas City ",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25124/slide-25-jpg-73k?da=y"
+     
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 4,800,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "Sonia Falcon's",
+  "address": "Armstrong Dasmariñas City, Cavite",
+  "featured": false
+},
+{
+  "title": "Artisque Salon",
+  "slug": "Artisque Salon",
+  "category": ["remodeling"],
+  "description": "Remodeling of a commercial unit in a famous area in Metro Manila",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25125/slide-26-1-jpg-65k?da=y",
+      "https://www.keepandshare.com/doc8/25126/slide-26-2-jpg-48k?da=y"
+     
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 3,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Greenfields, Mandaluyong City",
+  "featured": true
+},
+{
+  "title": "Caramia/Amici Store",
+  "slug": "Caramia/Amici Store",
+  "category": ["remodeling"],
+  "description": "Remodeling and interior designing of a commercial unit in a famous area in Metro Manila",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25127/slide-27-1-jpg-36k?da=y",
+      "https://www.keepandshare.com/doc8/25128/slide-27-2-jpg-45k?da=y",
+      "https://www.keepandshare.com/doc8/25129/slide-27-3-jpg-61k?da=y",
+      "https://www.keepandshare.com/doc8/25130/slide-27-4-jpg-24k?da=y"
+
+     
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 6,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Greenhills, San Juan City",
+  "featured": true
+},
+{
+  "title": "2-storey Extension",
+  "slug": "2-storey Extension",
+  "category": ["proposed projects"],
+  "description": " Proposed perspective for 2-storey extension",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25131/slide-28-jpg-169k?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 3,500,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Avida Bulacan",
+  "featured": false
+}
+,
+{
+  "title": "2-storey Residence",
+  "slug": "2-storey Residence",
+  "category": ["proposed projects"],
+  "description": " Proposed perspective for 2-storey construction",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25132/slide-29-jpg-53k?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 4,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Brgy. Mambog, Bacoor City Cavite",
+  "featured": false
+}
+,
+{
+  "title": "2-storey residence",
+  "slug": "2-storey-residence",
+  "category": ["proposed projects"],
+  "description": " Proposed perspective for house construction",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25135/slide-33-png-1-7-meg?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 5,000,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Brgy. Gueguesangen Sta. Barbara, Pangasinan",
+  "featured": false
+}
+,
+{
+  "title": "2-storey Renovation",
+  "slug": "2-storey Renovation",
+  "category": ["proposed projects"],
+  "description": " Proposed perspective for house renovation",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25142/slide-35-jpg-170k?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 2,500,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Zone 1 Calepaan Asingan, Pangasinan",
+  "featured": false
+}
+,
+{
+  "title": "2-storey Interior Renovation",
+  "slug": "2-storey Interior Renovation",
+  "category": ["interior design"],
+  "description": " Proposed perspective for house interior",
+  "img": {
+    "src": [
+      "https://www.keepandshare.com/doc8/25143/slide-36-1-jpg-37k?da=y",
+      "https://www.keepandshare.com/doc8/25144/slide-36-2-jpg-32k?da=y",
+      "https://www.keepandshare.com/doc8/25145/slide-36-3-jpg-41k?da=y",
+      "https://www.keepandshare.com/doc8/25146/slide-36-4-jpg-37k?da=y"
+    ],
+    "orig": "",
+    "author": ""
+  },
+  "amount": "Php 2,500,000.00",
+  "duration": "",
+  "completionDate": "",
+  "owner": "",
+  "address": "Zone 1 Calepaan Asingan, Pangasinan",
+  "featured": false
+}
+
+]
