@@ -132,13 +132,13 @@ export default function ContactForm(){
                 <section className="address mb-4 pb-4">
                   <p className="text-uppercase font-weight-bold">Address</p>
                   <Row className="ml-0 flex-nowrap">
-                    <Pin className="fill-svg fill-color" /> <p>Zone 7 Bobonan Asingan Pangasinan 2439 </p>
+                    <Pin className="fill-svg fill-color" /> <p></p>
                   </Row>
                 </section>
                 <section className="address mb-4 pb-4">
                   <p className="text-uppercase font-weight-bold">Satellite</p>
                   <Row className="ml-0 flex-nowrap">
-                    <Pin className="fill-svg fill-color" /> <p>Sawalag Dasmarinas, Cavite 4114 </p>
+                    <Pin className="fill-svg fill-color" /> <p></p>
                   </Row>
                 </section>
               </aside>

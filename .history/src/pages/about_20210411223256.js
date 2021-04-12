@@ -12,8 +12,6 @@ import { Carousel } from 'react-responsive-carousel';
 
 import Permit from "../images/HDO/SLIDE 48.jpg"
 import Registration from "../images/HDO/SLIDE 47 - 2.jpg"
-import Registration1 from "../images/HDO/SLIDE 47 - 1.jpg"
-import BIR from "../images/HDO/SLIDE 46.jpg"
 
 const AboutPage = () => {
   const data = useStaticQuery(graphql`
@@ -128,13 +126,7 @@ const AboutPage = () => {
               align="center"
             />
              <img
-              src={Registration1}
-              alt="Company Thumbnail"
-              className="img-thumbnail w-20 mr-2"
-              align="center"
-            />
-             <img
-              src={BIR}
+              src={Permit}
               alt="Company Thumbnail"
               className="img-thumbnail w-20 mr-2"
               align="center"

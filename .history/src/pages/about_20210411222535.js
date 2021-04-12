@@ -6,14 +6,8 @@ import PageHeader from "../components/pageHeader"
 import AboutCard from "../components/aboutCard"
 
 
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import { Carousel } from 'react-responsive-carousel';
-
-
 import Permit from "../images/HDO/SLIDE 48.jpg"
-import Registration from "../images/HDO/SLIDE 47 - 2.jpg"
-import Registration1 from "../images/HDO/SLIDE 47 - 1.jpg"
-import BIR from "../images/HDO/SLIDE 46.jpg"
+
 
 const AboutPage = () => {
   const data = useStaticQuery(graphql`
@@ -113,33 +107,24 @@ const AboutPage = () => {
            Permits and Licensing
          </h3>
          </Col>
-         <Carousel>
          <img
               src={Permit}
               alt="Company Thumbnail"
-              className="img-thumbnail w-20 mr-2"
-              align="center"
-            />
-            
-             <img
-              src={Registration}
-              alt="Company Thumbnail"
-              className="img-thumbnail w-20 mr-2"
+              className="img-thumbnail w-40 mr-10"
               align="center"
             />
              <img
-              src={Registration1}
+              src={Permit}
               alt="Company Thumbnail"
-              className="img-thumbnail w-20 mr-2"
+              className="img-thumbnail w-40 mr-10"
               align="center"
             />
              <img
-              src={BIR}
+              src={Permit}
               alt="Company Thumbnail"
-              className="img-thumbnail w-20 mr-2"
+              className="img-thumbnail w-40 mr-10"
               align="center"
             />
-            </Carousel>
          </Container>
     </section>
   )
