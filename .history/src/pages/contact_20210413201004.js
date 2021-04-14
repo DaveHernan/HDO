@@ -73,8 +73,13 @@ export default function ContactForm(){
                   required
                 ></textarea>
               </Col>
-              <Col className="mb-1" md="12">
-                
+              <Col className="mb-4" md="12">
+                <input
+                  className="form-control-file"
+                  type="file"
+                  name="file"
+                  id="attachedFile"
+                />
               </Col>
               <Col className="mb-4" md="6">
                 <input

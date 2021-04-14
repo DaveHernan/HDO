@@ -73,9 +73,7 @@ export default function ContactForm(){
                   required
                 ></textarea>
               </Col>
-              <Col className="mb-1" md="12">
-                
-              </Col>
+            <div><br></br></div>
               <Col className="mb-4" md="6">
                 <input
                   className="form-control"
