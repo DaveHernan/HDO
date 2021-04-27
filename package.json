@@ -29,6 +29,7 @@
     "react-dom": "^16.8.6",
     "react-fade": "^1.1.1",
     "react-helmet": "^5.2.1",
+    "react-messenger-customer-chat": "^0.8.0",
     "react-typed": "^1.2.0",
     "reactstrap": "^8.0.1",
     "typed": "^0.3.3"

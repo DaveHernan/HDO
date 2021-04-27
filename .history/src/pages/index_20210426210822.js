@@ -14,21 +14,39 @@ import QuoteUs from "../components/quote"
 import Feature from "../components/feature"
 import News from "../components/news"
 
+import MessengerCustomerChat from "react-messenger-customer-chat";
+
+
 const IndexPage = ({ data }) => {
   const { fullTitle, description, about } = data.site.siteMetadata
 
   return (
     <div>
-      <Hero title={fullTitle} description={description} />
-      <Services />
-      <About about={about} />
+   <Hero title={fullTitle} description={description} />
+      
       <Feature
         title="Featured Projects"
         projects={data.allProjectsJson.edges}
       />
-      <QuoteUs />
-      <News />
+      
+      <Services 
+        title="Services"/>
+    
+ 
+      <About about={about} />
+      <News /> 
+       <QuoteUs />
+    
+
+       <div>
+<MessengerCustomerChat
+  pageId="1139617659436062"
+  appId="796025521346355"
+/>
+</div>
     </div>
+
+
   )
 }
 
